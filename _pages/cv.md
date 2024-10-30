@@ -20,7 +20,7 @@ Work experience
   * Duties includes: Costume design and creation
 
 * Summer 2024: Residential Counselor
-  * The Home For Little Wanderers | Camp Wediko
+  * The Home For Little Wanderers -- Camp Wediko
   * Duties included: Supporting children and teaching
   
 Skills
