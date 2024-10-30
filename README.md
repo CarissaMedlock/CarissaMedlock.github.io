@@ -1,4 +1,4 @@
-# Academic Pages
+# Using Academic Pages Template
 
 # Here is my CS208 JavaScript Project Website.
 
