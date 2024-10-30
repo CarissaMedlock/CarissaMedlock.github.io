@@ -22,5 +22,4 @@ Coming Soon!
 
 Currently Avaliable in Portfolio
 =====
- * Waxen
-    * Some art of a previously made game: Waxen. This was a 2D-Platformer made in 2022 and 2023 with me as the sole developer and artist.
+ * Some art of a previously made game: Waxen. This was a 2D-Platformer made in 2022 and 2023 with me as the sole developer and artist.
