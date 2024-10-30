@@ -21,7 +21,7 @@ repository               : "CarissaMedlock/CarissaMedlock.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ProfPic.png"
+  avatar           : "ProfPic.jpg"
   name             : "Carissa"
   pronouns         : "She/Her"  
   bio              : "Knox College Computer Science Sophmore"
