@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Carissa Medlock. I am a Computer Science Major at Knox College with 5 years of coding experience. My future plans involve a career in videogame development and/or design where I work on videogames that delve into mental health issues such as anxiety, schizophrenia, and others in order to educate the public and make people feel less alone. 
+My name is Carissa Medlock. I am a Computer Science Major at Knox College with 6 years of coding experience. My future plans involve a career in videogame development and/or design where I work on videogames that delve into mental health issues such as anxiety, schizophrenia, and others in order to educate the public and make people feel less alone. 
 
 Current Project
 ======
