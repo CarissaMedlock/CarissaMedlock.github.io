@@ -22,4 +22,5 @@ Coming Soon!
 
 Currently Avaliable in Portfolio
 =====
- * Some art of a previously made game: Waxen. This was a 2D-Platformer made in 2022 and 2023 with me as the sole developer and artist.
+ * A recording of my testing work on a combination project from Knox College's Religion and Video Games class.
+ * The slides used for my Summer Horizons presentation at Knox College on July 24th, 2025 on AI Bias
