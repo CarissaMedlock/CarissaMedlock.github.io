@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "One of the worlds from my game Waxen that was created in 2022-2023.<br/>"
+title: "Knox College: \"An Old Hope\" "
+excerpt: "Inital additions that I worked on for Knox College's in-progress game<br/>"
 collection: portfolio
 ---
 
-<img src='/images/farm1-YELLOW.png'>
+<img src='/files/TesterWorldRecording.mp4'>
