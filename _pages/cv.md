@@ -15,6 +15,9 @@ Education
 
 Work experience
 ======
+* Aug 2025 - Now: TRIO Academic Coach
+  * Knox College
+  * Duties includes: Provide academic support for low income students
 * Jan 2024 - Now: Costume Studio Teaching Assistant
   * Knox College
   * Duties includes: Costume design and creation
@@ -38,3 +41,9 @@ Service and leadership
 ======
 * Stage Management of 2 Different Knox Theatre Faculty Productions
   * And 1 Student Production
+
+Presentations
+======
+* What is Missing? Bias in AI. 
+  * Authorship: Medlock, C, M & Lei, M. (2025). 
+  * Summer HORIZONS Knox College, Galesburg, IL, July 23, 2025.
