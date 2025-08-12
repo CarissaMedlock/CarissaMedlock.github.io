@@ -23,4 +23,4 @@ Coming Soon!
 Currently Avaliable in Portfolio
 =====
  * A recording of my testing work on a combination project from Knox College's Religion and Video Games class.
- * The slides used for my Summer Horizons presentation at Knox College on July 24th, 2025 on AI Bias
+ * The slides used for my Summer Horizons presentation at Knox College on July 23rd, 2025 on AI Bias
