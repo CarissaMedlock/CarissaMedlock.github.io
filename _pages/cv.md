@@ -39,8 +39,10 @@ Skills
   
 Service and leadership
 ======
-* Stage Management of 2 Different Knox Theatre Faculty Productions
-  * And 1 Student Production
+* Stage Management with Knox College's Theatre Program
+  * Silent Sky, Directed by Liz Carlin-Metz (Faculty)
+  * Coast Starlight, Directed by Jeff Grace (Faculty)
+  * Rat Play, Directed by Delaney Rose Edsall (Student)
 
 Presentations
 ======
