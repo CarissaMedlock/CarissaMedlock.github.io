@@ -4,4 +4,4 @@ excerpt: "The slide deck used for a presentation given at Knox College on July 2
 collection: portfolio
 ---
 
-<source src='/files/Medlock_Carissa_A203 2_30.pdf'>
+<embed src="/files/Medlock_Carissa_A203 2_30.pdf" width="800px" height="2100px"/>
