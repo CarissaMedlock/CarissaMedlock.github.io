@@ -4,4 +4,4 @@ excerpt: "Inital additions that I worked on for Knox College's in-progress game<
 collection: portfolio
 ---
 
-<source src='/files/TesterWorldRecording.mp4' type="video/mp4">
+<embed src="/files/TesterWorldRecording.mp4" width="1080px" height="1080px"/>
